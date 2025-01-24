@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953317182090",
+    "project_id": "mathmagic-df71a",
+    "storage_bucket": "mathmagic-df71a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953317182090:android:e944d2cd66d26d4bebbb73",
+        "android_client_info": {
+          "package_name": "com.oneside.Mathmagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpqMLTSHd5GanG1mdpcl1nBKoFoXtStU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
