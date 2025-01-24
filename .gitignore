@@ -1,6 +1,7 @@
 # Unity .gitignore template
 # Referensi: https://github.com/github/gitignore/blob/main/Unity.gitignore
-
+*.bundle
+*.so
 # Ignoring generated folders
 [Ll]ibrary/
 [Tt]emp/
